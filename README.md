@@ -9,6 +9,12 @@ Gabung sekarang dan temukan partner main yang cocok banget buat kamu!
 
 ---
 
+📊 Laman ini telah dikunjungi:  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mabar.netlify.app)
+
+---
+
+
 # 📖 FAQ – Lobby Mabar
 
 ## ❓ Ini channel/bot apaan sih?  
