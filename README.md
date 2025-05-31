@@ -6,11 +6,7 @@ Tempat nongkrongnya para gamers sejati! Di sini kamu bisa:
 - Curhat, ngobrol, dan seru-seruan bareng sesama gamers
 
 Gabung sekarang dan temukan partner main yang cocok banget buat kamu!
-
-
 ---
-
-
 # 📖 FAQ – Lobby Mabar
 
 ## ❓ Ini channel/bot apaan sih?  
