@@ -7,19 +7,19 @@ Tempat nongkrongnya para gamers sejati! Di sini kamu bisa:
 
 Gabung sekarang dan temukan partner main yang cocok banget buat kamu!
 ---
-# 📖 FAQ – Lobby Mabar
+### 📖 FAQ – Lobby Mabar
 
-## ❓ Ini channel/bot apaan sih?  
+### ❓ Ini channel/bot apaan sih?  
 Ini tempatnya para gamers kumpul! Kamu bisa cari temen mabar, tim baru, atau sekadar ngobrol soal game favorit kamu.
 
 ---
 
-## 🎮 Game apa aja yang bisa dicari di sini?  
+### 🎮 Game apa aja yang bisa dicari di sini?  
 Semua game bebas! Mulai dari Mobile Legends, PUBG, FF, Valorant, CODM, sampai Uno online pun boleh 😄
 
 ---
 
-## 👥 Gimana cara cari temen mabar?  
+### 👥 Gimana cara cari temen mabar?  
 Tinggal kirim aja pesan di format yang udah disarankan.  
 Contoh:
 ```
@@ -28,12 +28,12 @@ Contoh:
 
 ---
 
-## 🧩 Boleh promosi turnamen/komunitas game?  
+### 🧩 Boleh promosi turnamen/komunitas game?  
 Boleh, asal izin dulu ke admin yaa. Kita terbuka asal sopan dan gak spam!
 
 ---
 
-## ❌ Aturan di sini apa aja sih?  
+### ❌ Aturan di sini apa aja sih?  
 1. Jangan toxic  
 2. Jangan spam  
 3. Jangan baperan 😅  
@@ -42,30 +42,30 @@ Boleh, asal izin dulu ke admin yaa. Kita terbuka asal sopan dan gak spam!
 
 ---
 
-## 🤖 Bot ini fungsinya apa aja?  
+### 🤖 Bot ini fungsinya apa aja?  
 Bot bantu kamu cari tim, filter pesan, dan bantu ngatur alur chat biar gak chaos.  
 Kedepannya bakal ada fitur match otomatis juga loh!
 
 ---
 
 
-## 🧪 Ada masalah sama bot/channel?  
+### 🧪 Ada masalah sama bot/channel?  
 Langsung aja DM admin di **@aku_aldo**.  
 Jangan malu-malu, kita open banget buat saran & feedback!
 
 ---
 
-## 💼 Tips Tambahan  
+### 💼 Tips Tambahan  
 - Gunakan hashtag sesuai game: `#ml`, `#pubg`, `#valorant` dll.  
 - Kasih info yang jelas biar gampang dicari tim.  
 - Cek rules di pinned message sebelum mulai ngobrol.  
 
 ---
 
-## 🔗 Join Sekarang!  
+### 🔗 Join Sekarang!  
 Masuk ke channel dan aktifin notifnya biar gak ketinggalan info mabar!
 
 Channel: [@lobbymabar](https://t.me/lobbymabar)  
 Bot: [@lobbymabarbot](https://t.me/lobbymabarbot)
 
-> made with lobby mabar
+> made with @Rifaldo-dev
