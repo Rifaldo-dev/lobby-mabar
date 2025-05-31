@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/icon.png" alt="Icon" width="100" height="100" />
+  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-3ae0-61f8-96f4-11c5e8ec025e/raw?se=2025-05-31T17%3A59%3A23Z&sp=r&sv=2024-08-04&sr=b&scid=50aed88d-a47d-527b-ab8b-3256cc677acd&skoid=b64a43d9-3512-45c2-98b4-dea55d094240&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-31T16%3A40%3A36Z&ske=2025-06-01T16%3A40%3A36Z&sks=b&skv=2024-08-04&sig=neOQiwRbSZ8oLqtRfn6Rw9SXYupDSm36A2CZfFS%2Bh6A%3D" alt="Icon" width="100" height="100" />
 </p>
 
 # ✨ Welcome to Lobby Mabar!
