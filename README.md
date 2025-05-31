@@ -10,7 +10,8 @@ Gabung sekarang dan temukan partner main yang cocok banget buat kamu!
 ---
 
 📊 Laman ini telah dikunjungi:  
-![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmabar.netlify.app&count_bg=%2300C2FF&title_bg=%23555555&icon=counter.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=mabar.netlify.app&count_bg=%2300C2FF&title_bg=%23555555&icon=counter.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+
 
 
 ---
