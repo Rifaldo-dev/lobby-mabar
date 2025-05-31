@@ -16,7 +16,17 @@
       subMaxLevel: 2,
       coverpage: false
     };
+
+    fetch('https://api.countapi.xyz/hit/mabar-lobby/visits')
+  .then(res => res.json())
+  .then(data => {
+    document.getElementById('hit-count').innerText = data.value;
+  })
+  .catch(() => {
+    document.getElementById('hit-count').innerText = 'Error';
+  });
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
 </body>
 </html>
